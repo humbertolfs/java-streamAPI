@@ -9,7 +9,7 @@ To get started with this repository, follow the steps below:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/java-streamAPI.git
+   git clone https://github.com/humbertolfs/java-streamAPI.git
    ```
 
 2. Open the project in your favorite Java IDE.
